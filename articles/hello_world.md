@@ -2,6 +2,6 @@
 
 It's a beautiful day for some C.
 
-[snippet: convict.c:1,62]
+[snippet: quadratic_equation.c:1,29]
 
 ## Send me your comments @quigebo
